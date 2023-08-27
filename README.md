@@ -32,7 +32,7 @@ This repository contains Python code for generating abstract and dream-like imag
 
    - **Deep Dream Class**: A class is defined to encapsulate the Deep Dream process.
 
-   - **Simple Deep Dream**: The `run_deep_dream_simple` function is explained, which generates a simple Deep Dream image.
+   - **Simple Deep Dream**: The `deep_dream_loop` function is explained, which generates a simple Deep Dream image.
 
    - **Multi-Scale Deep Dream**: A more complex Deep Dream process involving multiple scales is presented.
 
